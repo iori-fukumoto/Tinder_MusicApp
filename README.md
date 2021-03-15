@@ -10,18 +10,18 @@
 <img src="https://user-images.githubusercontent.com/78245675/111100866-0de59f00-858c-11eb-9796-51a3caa123d2.jpg" width="320px">
 
 ## 機能
-・匿名ログイン機能
-・検索機能
-・スワイプ機能
-・音声再生機能
-・お気に入りリスト表示機能
-・他のユーザーのお気に入りリスト確認機能
+・匿名ログイン機能  
+・検索機能  
+・スワイプ機能  
+・音声再生機能  
+・お気に入りリスト表示機能  
+・他のユーザーのお気に入りリスト確認機能  
 
 ## 使用したAPI・ライブラリ
-・Firebase
-・Apple Music API
-・VerticalCardSwiper
-・SDWebImage
-・PKHUD
-・Alamofire
+・Firebase  
+・Apple Music API  
+・VerticalCardSwiper  
+・SDWebImage  
+・PKHUD  
+・Alamofire  
 ・SwiftyJSON
