@@ -1,4 +1,4 @@
-# Tinder_MusicApp
+# Tinder_MusicApp(Udemyで作成)
 
 ## 検索画面
 <img src="https://user-images.githubusercontent.com/78245675/111100835-fb6b6580-858b-11eb-80d1-cfd75fe19cfa.jpg" width="320px">
